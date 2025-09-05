@@ -1,3 +1,14 @@
+**/.DS_Store
+**/*.pt
+**/*cora*
+**/*MUTAG*
+**/*_epoch*
+**/*ubyte*
+**/*MacBookAir*
+**/*ckpt*
+**/*saved_models*
+**/*mnist*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
