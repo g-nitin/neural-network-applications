@@ -8,6 +8,7 @@
 **/*ckpt*
 **/*saved_models*
 **/*mnist*.csv
+CNN/data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
